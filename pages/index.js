@@ -15,6 +15,12 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
+
+        <p>Estás mirando la página de inicio, navega a 
+          <a href="/productos">/productos</a>
+          para ver la app web
+        </p>
+
       </main>
 
       <Footer />
